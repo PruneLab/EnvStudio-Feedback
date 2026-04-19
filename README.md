@@ -14,8 +14,8 @@ This is the official feedback repository for **EnvStudio** — a modern Windows 
 
 | Action | Link |
 |--------|------|
-| 🐞 Report a Bug | [Create Bug Report](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=bug_report.md) |
-| ✨ Feature Request | [Suggest a Feature](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=feature_request.md) |
+| 🐞 Report a Bug | [Create Bug Report](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=bug_report.yml) |
+| ✨ Feature Request | [Suggest a Feature](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=feature_request.yml) |
 | 📖 View All Issues | [Issues](https://github.com/prunelab/EnvStudio-Feedback/issues) |
 
 ## 🐛 Before Reporting

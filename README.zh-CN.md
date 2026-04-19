@@ -14,8 +14,8 @@
 
 | 操作 | 链接 |
 |------|------|
-| 🐞 反馈 Bug | [创建 Bug 报告](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=bug_report.md) |
-| ✨ 功能建议 | [提交新功能建议](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=feature_request.md) |
+| 🐞 反馈 Bug | [创建 Bug 报告](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=bug_report.yml) |
+| ✨ 功能建议 | [提交新功能建议](https://github.com/prunelab/EnvStudio-Feedback/issues/new?template=feature_request.yml) |
 | 📖 查看所有问题 | [Issues](https://github.com/prunelab/EnvStudio-Feedback/issues) |
 
 ## 🐛 反馈前须知
