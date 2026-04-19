@@ -29,15 +29,6 @@ body:
       required: true
 
   - type: textarea
-    id: what_happened
-    attributes:
-      label: What happened?
-      description: Describe the bug you encountered
-      placeholder: Tell us what you see!
-    validations:
-      required: true
-
-  - type: textarea
     id: reproduction
     attributes:
       label: Steps to reproduce
@@ -50,18 +41,20 @@ body:
       required: true
 
   - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Describe what actually happened
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+
+  - type: textarea
     id: expected
     attributes:
       label: Expected behavior
       description: What did you expect to happen?
       placeholder: Describe what should have happened
-
-  - type: textarea
-    id: actual
-    attributes:
-      label: Actual behavior
-      description: What actually happened?
-      placeholder: Describe what actually happened
 
   - type: textarea
     id: screenshots
