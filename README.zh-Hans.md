@@ -1,7 +1,7 @@
 # EnvStudio 用户反馈
 
 <p align="right">
-  <a href="README.md">🇺🇸 English (US)</a>
+  <a href="README.md">English (US)</a>
 </p>
 
 ## 👋 欢迎
