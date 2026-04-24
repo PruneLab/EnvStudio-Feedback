@@ -29,6 +29,8 @@
   <img src="https://prunelab.net/products/envstudio/covers/es/cover2.png" width="48%" />
 </p>
 
+## Descargar
+
 <p align="center">
   <a href="https://apps.microsoft.com/detail/9nl5scxw3320" target="_blank">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download from Microsoft Store"/>
