@@ -31,7 +31,7 @@
 
 ## 下载
 
-<p align="center">
+<p>
   <a href="https://apps.microsoft.com/detail/9nl5scxw3320" target="_blank">
     <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200" alt="Download from Microsoft Store"/>
   </a>
